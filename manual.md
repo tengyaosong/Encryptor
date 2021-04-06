@@ -1,4 +1,4 @@
-# Manual of Encriptor 
+# Manual of Encryptor 
 The Android App called Encriptor can encrypts messages using a simple sbustitution cipher.
 
 - After you open the App, you can type in the text you would like to encript at the "Plaintext" frame box. 
